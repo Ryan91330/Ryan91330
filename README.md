@@ -24,6 +24,10 @@ or sell-side) starting 2027.
 
 ## Featured projects
 
+- [**jepx-electricity-price-forecasting**](https://github.com/Ryan91330/jepx-electricity-price-forecasting)
+  — forecasting Japan's day-ahead electricity market (JEPX) with time-series
+  diagnostics, deep learning, and real weather data across Japan's 9 pricing
+  regions.
 - [**Polymarket-Misspricing-Bot**](https://github.com/Ryan91330/Polymarket-Misspricing-Bot)
   — pricing Polymarket BTC binary options via Black-Scholes with an ML-modeled
   implied volatility; a live, async, multi-feed paper-trading system.
