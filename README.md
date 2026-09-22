@@ -35,8 +35,10 @@ or sell-side) starting 2027.
   a physics-informed neural network that jointly learns option prices and the
   local volatility surface under a Black-Scholes PDE constraint.
 - [**prediction-market-research-lab**](https://github.com/Ryan91330/prediction-market-research-lab)
-  — a curated research log applying a pre-registered, kill-gated hypothesis
-  testing process to crypto prediction markets.
+  — real systematic trading code for crypto prediction markets: a live
+  lead-lag momentum strategy plus two refuted ones (market making, dip
+  buying), each with its own backtest engine and a pre-registered,
+  kill-gated research process behind it.
 - [**QBR_Markov**](https://github.com/Ryan91330/QBR_Markov) — regime detection in
   financial returns via quantile-based Markov chains.
 - [**arbitrage_detector**](https://github.com/Ryan91330/arbitrage_detector) —
